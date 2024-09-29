@@ -7,6 +7,7 @@
 
 ##
 
+- Master student: Systems and Computing Engineering
 - 📚 Computer Scientist (Bachelor Degree)
 - ⚡ Working as fullstack Web Developer
 
